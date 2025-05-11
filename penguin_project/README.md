@@ -36,11 +36,11 @@ Palmer Penguins 데이터셋을 기반으로 3가지 분류 모델(KNN, Logistic
 | Naive Bayes | 0.95 |
 
 📌 참고 자료
-Palmer Penguins dataset
-https://github.com/allisonhorst/palmerpenguins
+> Palmer Penguins dataset
+- https://github.com/allisonhorst/palmerpenguins
 
-scikit-learn Documentation
-https://scikit-learn.org/stable/
+> scikit-learn Documentation
+- https://scikit-learn.org/stable/
 
 🙋‍♀️ 만든 이유
 - 머신러닝 분류 모델의 비교 실습
